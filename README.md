@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericktxy28967&label=Profile%20views&color=0e75b6&style=flat" alt="ericktxy28967" /> </p>
 
-- 🔭 I’m currently working on **MealMaster**
+- 🔭 I’m currently working on **MealMaster, CPSU Moises Padilla Website, Quizrity**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel, ExpressJS**
 
 - 💬 Ask me about **PHP, React, JavaScript**
 
