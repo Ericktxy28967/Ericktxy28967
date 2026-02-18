@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, ExpressJS**
 
-- 💬 Ask me about **PHP, React, JavaScript**
+- 💬 Ask me about **PHP, React, JavaScript, MySql**
 
 - 📫 How to reach me **ericsalazar.ft4u@gmail.com**
 
